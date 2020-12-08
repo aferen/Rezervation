@@ -1,0 +1,39 @@
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\obj\Debug\Reservation.csprojResolveAssemblyReference.cache
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\obj\Debug\Reservation.Properties.Resources.resources
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\obj\Debug\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\obj\Debug\Reservation.Form1.resources
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\bin\Debug\Reservation.exe.config
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\bin\Debug\Reservation.exe
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\bin\Debug\Reservation.pdb
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\obj\Debug\Reservation.exe
+C:\Users\Murat\OneDrive\OneDrive - Anadolu Üniversitesi\classes\CoursesTaugth\2018-2019\Spring\Alg.Prog2\hw2\Reservation\Reservation\obj\Debug\Reservation.pdb
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\obj\Debug\Reservation.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\obj\Debug\Reservation.Form1.resources
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\obj\Debug\Reservation.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\obj\Debug\Reservation.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\obj\Debug\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\obj\Debug\Reservation.exe
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\obj\Debug\Reservation.pdb
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\bin\Debug\Reservation.exe.config
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\bin\Debug\Reservation.exe
+C:\Users\Lenovo\Documents\Projects\Reservation-BaslangicKodu\Reservation\bin\Debug\Reservation.pdb
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\bin\Debug\Reservation.exe.config
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\bin\Debug\Reservation.exe
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\bin\Debug\Reservation.pdb
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\obj\Debug\Reservation.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\obj\Debug\Reservation.Form1.resources
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\obj\Debug\Reservation.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\obj\Debug\Reservation.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\obj\Debug\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\obj\Debug\Reservation.exe
+C:\Users\Lenovo\Documents\Documents\Homework\Reservation\Reservation\obj\Debug\Reservation.pdb
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\bin\Debug\Reservation.exe.config
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\bin\Debug\Reservation.exe
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\bin\Debug\Reservation.pdb
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\obj\Debug\Reservation.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\obj\Debug\Reservation.Form1.resources
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\obj\Debug\Reservation.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\obj\Debug\Reservation.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\obj\Debug\Reservation.exe
+C:\Users\Lenovo\Documents\Lessons\Documents\Dersler\Algorithms and Programming 2\Reservation\Reservation\obj\Debug\Reservation.pdb
